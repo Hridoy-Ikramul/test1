@@ -1,3 +1,5 @@
 i am just a text file 
 git log 
 git log --oneline
+git ignore 
+.gitignore
